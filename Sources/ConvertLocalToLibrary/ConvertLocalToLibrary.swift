@@ -10,7 +10,7 @@ public struct ConvertLocalToLibrary {
     /// Returns a greeting for the given name.
     /// - Parameter name: The name to greet.
     /// - Returns: A greeting string.
-    public func greet(name: String) -> String {
+    public func greetWithName(name: String) -> String {
         return "Hello, \(name)! Welcome to MyAwesomeLibrary!"
     }
 }
