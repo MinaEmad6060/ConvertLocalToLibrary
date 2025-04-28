@@ -1,0 +1,18 @@
+//
+//  Production.xcconfig
+//  Soho
+//
+//  Created by Amr Salman on 06/07/2021.
+//
+
+IC_APP_DISPALY_NAME = BostaCatalog
+IC_APP_ICON = AppIcon
+IC_APP_ID = co.bosta.BostaCatalog
+IC_UIKIT_ID = co.bosta.BostaCatalog.BostaKit
+BACKEND_URL = app.bosta.co/api/
+//GOOGLE_APP_ID = 454518994291-gntr6jfj3c91kek6mg8ki273egafd7v6.apps.googleusercontent.com
+//FIREBASE_CONFIG_FILE = GoogleService-Info.plist
+ANALYTICS_KEY = gPbnXFVUa2fzsUEYTrPvlaBoFmlNC3k3
+//MERCHANT_ID = merchant.co.bosta.boost
+BASE_DOMAIN_URL = bosta.co
+DASHBOARD_BASE_URL = business.bosta.co

@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "IconWrapper.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

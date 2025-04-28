@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Primary Fill.svg",
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "Primary Fill-1.svg",
+      "idiom" : "universal",
+      "locale" : "ar"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "localizable" : true,
+    "preserves-vector-representation" : true
+  }
+}

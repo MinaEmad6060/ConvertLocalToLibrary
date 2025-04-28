@@ -1,0 +1,18 @@
+//
+//  Dev.xcconfig
+//  Soho
+//
+//  Created by Shady on 27/04/2025.
+//
+
+IC_APP_DISPALY_NAME = BostaCatalog Dev
+IC_APP_ICON = AppIconStaging
+IC_APP_ID = co.bosta.BostaCatalog-dev
+IC_UIKIT_ID = co.bosta.BostaCatalog-dev.BostaKit
+BACKEND_URL = dev-app.bosta.co/api/
+//GOOGLE_APP_ID = 454518994291-gntr6jfj3c91kek6mg8ki273egafd7v6.apps.googleusercontent.com
+//FIREBASE_CONFIG_FILE = GoogleService-Info.plist
+ANALYTICS_KEY = gPbnXFVUa2fzsUEYTrPvlaBoFmlNC3k3
+//MERCHANT_ID = merchant.co.bosta.boost
+BASE_DOMAIN_URL = stg.bosta.co
+DASHBOARD_BASE_URL = stg-business.bosta.co
