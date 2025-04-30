@@ -19,7 +19,7 @@ let package = Package(
         .target(
             name: "ConvertLocalToLibrary",
             resources: [
-                .process("Resources")
+                .process("Colors.xcassets")
             ]
         ),
         .testTarget(
